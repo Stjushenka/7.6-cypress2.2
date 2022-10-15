@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cypress": "^10.10.0",
+    "eslint": "^8.25.0"
+  },
+  "scripts": {
+    "dash": "npx cypress run --record --key 3ac46347-af63-4ade-bb89-96bfab0784f2"
+  
+  }
+}
